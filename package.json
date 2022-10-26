@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "- 9 Algorithms are implemented.\r - Each process can have different number of CPU Burst Time and I/O Burst Time.\r - Gantt Chart and Timeline Chart for the given Schedule.\r - Context Switching Time.\r - Animation of the Time Log.\r - Comparison for Round Robin Algorithm for all time quantum.\r - Comparison between all the algorithms wrt Average Completion Time, Turn Around Time, Waiting Time and Response Time.",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html && mv dist docs"
+    "start": "parcel index.html"
   },
   "repository": {
     "type": "git",
